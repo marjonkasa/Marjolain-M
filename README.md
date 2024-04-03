@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marjolain! <br/><a href="https://github.com/marjonkasa">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/MarjolainMisakabu/">Cybersecurity Professional</a>,</h1>
+<h1>Hi, I'm Marjolain! <br/><a href="https://github.com/marjonkasa">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/MarjolainMisakabu/"></a>,</h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
