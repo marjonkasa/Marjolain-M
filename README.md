@@ -1,45 +1,31 @@
-<h1>Hi, I'm Marjolain! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/Marjolain Misakabu">YouTuber</a></h1>
+<h1>Hi, I'm Marjolain! <br/><a href="https://github.com/marjonkasa">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/MarjolainMisakabu/">Cybersecurity Professional</a>,</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>DNS hacking Practice </b>
+  - [Praciting dns hacking](https://drive.google.com/file/d/13HbeHvqupMq2HCGH6Z1TIzLx-BI9m1LF/view?usp=sharing)
+- <b>OSINT(Whatweb, Nslookup, Recon ng ...)</b>
+  - [Practicing OSINT](https://drive.google.com/file/d/13WYEaWScFvfMyUzWJQ7Qg3Cnx81vj2hk/view?usp=drive_link)
+- <b>Vulnerability Exploitation</b>
+  - [Practicing vulnerability exploitation](https://drive.google.com/file/d/13YM1hl0nqObAYGX2t8lyTOQFxvGgv0iq/view?usp=drive_link)
+  - - [Practicing vulnerability exploitation](https://drive.google.com/file/d/13ZVdfKTLfw6I4eReyxtgxxXy1srNVMZU/view?usp=drive_link)
+- <b>SOC memory analysis </b>
+  - [Practicing memory analysis](https://drive.google.com/file/d/13ZjZAMrZSt2Yw6ENRu-MiiFiJPNSW1G0/view?usp=drive_link)
+- <b>Comptia security+ 701 Training</b>
+  - [Training security+ 701](https://drive.google.com/file/d/13jytSh_mhNXN4sgnVMC7LcBQGhH7Z7kp/view?usp=drive_link)
+  - - [Training security+ 701](https://drive.google.com/file/d/13_B5wxU2kF6Gg9Lqioy3_wRhVgI85ySe/view?usp=drive_link)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[<img align="left" alt="MarjolainMIsakabu | LinkedIn" width="22px" src="https://www.linkedin.com/in/marjolain-misakabu-3127a8194/" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/marjolainmisakabu
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**marjonkasa/Marjolain-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
