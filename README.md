@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marjolain! <br/><a href="https://github.com/marjonkasa">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/MarjolainMisakabu/"></a>,</h1>
+<h1>Hi, I'm Marjolain! <br/><a href="https://github.com/marjonkasa">Cybersecurity Professional</a>, <a href="www.linkedin.com/in/marjolain-misakabu-3127a8194"></a>LinkedIn</h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
@@ -16,13 +16,7 @@
   - - [Training security+ 701](https://drive.google.com/file/d/13_B5wxU2kF6Gg9Lqioy3_wRhVgI85ySe/view?usp=drive_link)
 
 
-<h2> 🤳 Connect with me:</h2>
 
-
-[<img align="left" alt="MarjolainMIsakabu | LinkedIn" width="22px" src="https://www.linkedin.com/in/marjolain-misakabu-3127a8194/" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/marjolainmisakabu
 
 <!--
 **marjonkasa/Marjolain-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
